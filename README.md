@@ -13,15 +13,15 @@ clock.
 * Up to 3 × I2C interface< /br>
 
 2) Wolfson Pi Audio card
-   ### Features
+### Features
 * The Wolfson audio card makes use of a WM5102
 audio hub for analog input and output
-• Analog line-level
-• Analog line-level input
-• Digital stereo audio input (SPDIF)
-• Digital stereo audio output (SPDIF)
-• High quality headphone output, with microphone
+* Analog line-level
+* Analog line-level input
+* Digital stereo audio input (SPDIF)
+* Digital stereo audio output (SPDIF)
+* High quality headphone output, with microphone
 facility
-• Onboard stereo digital microphones
-• Onboard power amplifier for directly driving
+* Onboard stereo digital microphones
+* Onboard power amplifier for directly driving
 loudspeakers.
